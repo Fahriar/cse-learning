@@ -1,2 +1,0 @@
-# cse-learning
-educational website
